@@ -6,6 +6,6 @@ Projeto de App de cadastro de livros da Disciplina Fundamentos de Design de Sist
 ## 📱 Demonstração
 <div align="center">
   
-![Demonstração do app PedePizza](CadastroLivros.gif)
+![Demonstração do app PedePizza](CRUDLivros.gif)
 
 </div>
